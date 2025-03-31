@@ -1,0 +1,8 @@
+Echipa: Real Madrid
+Antrenor: Ancelotti
+Mbappe,24,st,4
+
+Echipa: Barcelona
+Antrenor: Flick
+Yamal,17,rw,2
+
